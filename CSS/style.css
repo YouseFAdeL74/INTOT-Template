@@ -252,13 +252,14 @@ header .container .link .icon i{
   color: #555;
 }
 .special .special-srv .box .text button{
-  display: block;
-  margin: 20px auto 0;
-  padding: 10px 30px;
-  border-radius: 25px;
-  border: 2px solid #c4d70f;
-  color: #c4d70f;
-  transition: var(--main-transation);
+    display: block;
+    margin: 20px auto 0;
+    padding: 10px 30px;
+    border-radius: 25px;
+    border: 2px solid #c4d70f;
+    color: #c4d70f;
+    transition: var(--main-transation);
+    background-color: white;
 }
 .special .special-srv .box .text button:hover{
   color: white;
